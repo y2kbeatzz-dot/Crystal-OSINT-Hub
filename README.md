@@ -68,6 +68,12 @@ The concern extends well beyond any one platform. According to the **National Ce
 
 Do not download or redistribute suspected child sexual abuse material. Report the relevant information through official channels. The Crystal OSINT Hub website **does not accept crime reports or evidence submissions**.
 
+## REPORTING: MY EXPERIENCE
+
+> Reporting suspected online predators can be frustrating. In my personal experience, online reports haven't always received the attention they deserve, and I've sometimes needed to follow up in person. If you're reporting suspected exploitation, document your concerns, use official reporting channels, and follow up when necessary.
+
+This describes my personal experience, not a universal requirement to report in person. Official online reporting options remain available.
+
 ## PRIVATE BY DESIGN
 
 **My research tools are not being released.** This public repository contains only the portfolio website and its documentation. It does **not** contain investigative recordings, case files, victim information, suspect profiles, internal tool source code, Discord RPC, VRChat OSC integrations, or access to private storage.
