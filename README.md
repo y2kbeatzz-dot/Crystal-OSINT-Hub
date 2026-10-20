@@ -4,7 +4,7 @@
 
 ### ONLINE SAFETY. OPEN-SOURCE INTELLIGENCE. EVIDENCE-LED RESEARCH.
 
-**INDEPENDENT VRCHAT-FOCUSED RESEARCH PORTFOLIO**
+**INDEPENDENT DISCORD & VRCHAT ONLINE-SAFETY RESEARCH PORTFOLIO**
 
 [![Website](https://img.shields.io/badge/VISIT-THE_PORTFOLIO-a793f9?style=for-the-badge&labelColor=10131d)](https://y2kbeatzz-dot.github.io/Crystal-OSINT-Hub/)
 [![Focus](https://img.shields.io/badge/FOCUS-ONLINE_SAFETY-38304d?style=for-the-badge&labelColor=10131d)](#the-mission)
@@ -20,11 +20,17 @@
 
 ## THE MISSION
 
-**Crystal OSINT Hub** showcases my independent online-safety research, focused primarily on social VR spaces such as **VRChat**. I look for concerning behavior and statements that may indicate exploitation or predatory conduct, and work to preserve relevant information responsibly.
+**Crystal OSINT Hub** showcases my independent online-safety research, including interactions on **VRChat and Discord**. I look for concerning behavior and statements that may indicate exploitation or predatory conduct, and work to preserve relevant information responsibly.
 
 My approach starts with **observation and listening**. Conversations can surface concerning claims or admissions, but **a statement alone does not establish that a crime occurred**. Any concerns need context, corroboration, and careful documentation—not public accusations.
 
 This is a portfolio of my described approach, not a claim of law-enforcement authority or verified outcomes.
+
+## OVER 100 REPORTS SUBMITTED
+
+I have **self-reported submitting over 100 reports** concerning suspected online misconduct, including concerns encountered through **Discord and VRChat**. This figure reflects reports submitted; it does **not** mean over 100 people caught, confirmed offenders, arrests, or convictions. No personal case information is published.
+
+My OSINT-related skill set includes social-platform observation, assessing concerning statements, public-source research, source verification, maintaining separate private evidence logs, and writing factual reports.
 
 ## HOW I WORK
 
