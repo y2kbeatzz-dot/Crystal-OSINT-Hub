@@ -51,6 +51,23 @@ I distinguish direct observations, reported statements, and independent corrobor
 | **Evidence organization** | Separate private case logs, references, and chronological notes |
 | **Responsible reporting** | Clear, factual summaries for appropriate reporting channels |
 
+## 🛡️ ONLINE SAFETY IS A REAL ISSUE
+
+The concern extends well beyond any one platform. According to the **National Center for Missing & Exploited Children (NCMEC)**, its CyberTipline received **21.3 million reports in 2025**. These are reports, **not a count of confirmed crimes or unique offenders**. [Source: NCMEC's impact report](https://www.ncmec.org/ourwork/impact).
+
+**Awareness means action, not public accusations.** Listen to people raising concerns, avoid spreading unverified identities, use platform safety mechanisms, and report suspected crimes to qualified organizations.
+
+### REPORT & GET HELP (UNITED STATES)
+
+| Resource | When to use it | Contact |
+| :-- | :-- | :-- |
+| **NCMEC CyberTipline** | Suspected online child sexual exploitation | **[Report online](https://report.cybertip.org/)** · **1-800-843-5678** (24/7) |
+| **FBI Tips** | Federal crime tips or threats | **[tips.fbi.gov](https://tips.fbi.gov/)** · **1-800-CALL-FBI** |
+| **Childhelp** | Child abuse support and guidance | **[Childhelp Hotline](https://www.childhelphotline.org/)** · **1-800-422-4453** (24/7) |
+| **Emergency services** | Immediate danger | **911** |
+
+Do not download or redistribute suspected child sexual abuse material. Report the relevant information through official channels. The Crystal OSINT Hub website **does not accept crime reports or evidence submissions**.
+
 ## PRIVATE BY DESIGN
 
 **My research tools are not being released.** This public repository contains only the portfolio website and its documentation. It does **not** contain investigative recordings, case files, victim information, suspect profiles, internal tool source code, Discord RPC, VRChat OSC integrations, or access to private storage.
